@@ -7,7 +7,7 @@ permalink: /customization/abstract-syntax-tree/
 Abstract Syntax Tree
 ====================
 
-Starting with version 0.11, this library uses a doubly-linked list AST.  Every element (both blocks and inlines) extend from the `Node` class.
+Starting with version 0.11, this library uses a doubly-linked list AST.  Every element (both blocks and inlines) extends from the `Node` class.
 
 ## Traversal
 
